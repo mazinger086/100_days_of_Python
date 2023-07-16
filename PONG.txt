@@ -1,0 +1,12 @@
+PONG
+
+Diagrama
+
+1) Crear la pantalla
+2) Crear y mover la paleta
+3) Crear otra paleta
+4) Crear la bola y hacer que se mueva
+5) Detectar colision con la pared y rebotar
+6) Detectar colision con la paleta
+7) Detectar si la paleta erra
+8) Mantener el puntaje actualizado
