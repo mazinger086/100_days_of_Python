@@ -4,23 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dc35ea4-28de-4194-9893-742f84c45751" name="Changes" comment="" />
+    <list default="true" id="2dc35ea4-28de-4194-9893-742f84c45751" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../day-23-start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-start/.idea/day-23-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-start/car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-start/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-23-start/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-22-start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-22-start/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2ScgoKiCYksR0vMgCBTdJh9uD19" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/v-dlasauskas/Desktop/Angela_Yu/day-20-start"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/v-dlasauskas/Desktop/Angela_Yu/day-20-start&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.inheritance">
     <configuration name="inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="day-21-start" />
