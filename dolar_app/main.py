@@ -8,14 +8,16 @@ def get_latest_value():
     url = "https://api.bluelytics.com.ar/v2/latest"
     try:
         response = requests.get(url)
-    except requests.exceptions.RequestException as error:
-        messagebox.showerror(title="Error", message=error)
+    # except requests.exceptions.RequestException as error:
+        # messagebox.showerror(title="Error", message=error)
+    except:
+        messagebox.showerror(title="Error", message=f"Error al obtener los datos del usuario {response.status_code}")
     else:
-        if response.status_code == 200:
+        # if response.status_code == 200:
             data = response.json()
             return data
-        else:
-            messagebox.showerror(title="Error", message=f"Error al obtener los datos del usuario {response.status_code}")
+        # else:
+        #     messagebox.showerror(title="Error", message=f"Error al obtener los datos del usuario {response.status_code}")
 
 
 

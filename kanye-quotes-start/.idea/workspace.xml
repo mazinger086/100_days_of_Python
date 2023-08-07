@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7fe6e82-59c0-4fea-9ffe-22edac92538e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../birthday-wisher-extrahard-start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthday-wisher-extrahard-start/.idea/birthday-wisher-extrahard-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthday-wisher-extrahard-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthday-wisher-extrahard-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthday-wisher-extrahard-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthday-wisher-extrahard-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthday-wisher-extrahard-start/birthdays.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthday-wisher-extrahard-start/letter_templates/letter_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthday-wisher-extrahard-start/letter_templates/letter_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthday-wisher-extrahard-start/letter_templates/letter_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthday-wisher-extrahard-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthday-wisher-extrahard-start/my_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-32-start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-32-start/.idea/day-32-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-32-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-32-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-32-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-32-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-32-start/my_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-33-start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-33-start/.idea/day-33-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-33-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-33-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-33-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-33-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-33-start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dolar_app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dolar_app/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-card-project-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../flash-card-project-start/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2TLtohWkesgzUATa00nevpEU1nn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/v-dlasauskas/Desktop/Angela_Yu/day-33-start"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7fe6e82-59c0-4fea-9ffe-22edac92538e" name="Changes" comment="" />
+      <created>1690834364676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690834364676</updated>
+    </task>
+    <servers />
+  </component>
+</project>
